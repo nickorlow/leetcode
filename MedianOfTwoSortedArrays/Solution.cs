@@ -1,3 +1,8 @@
+/*
+Runtime: 112 ms, faster than 94.85% of C# online submissions for Median of Two Sorted Arrays.
+Memory Usage: 28.3 MB, less than 91.41% of C# online submissions for Median of Two Sorted Arrays.
+*/
+
 public class Solution 
 {
     public double FindMedianSortedArrays(int[] nums1, int[] nums2) 
