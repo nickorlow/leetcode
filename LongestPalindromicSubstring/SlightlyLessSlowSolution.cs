@@ -1,3 +1,7 @@
+/*
+Runtime: 492 ms, faster than 26.75% of C# online submissions for Longest Palindromic Substring.
+Memory Usage: 26.7 MB, less than 52.51% of C# online submissions for Longest Palindromic Substring.
+*/
 public class Solution 
 {
     public string LongestPalindrome(string s) 
